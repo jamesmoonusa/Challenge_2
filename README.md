@@ -7,7 +7,7 @@ Creating VBA Macro for a client who wants to analyzing 2017 and 2018 Stock datas
 3. Original VBA run time has significally reduced. [2017 Origianl VBA](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_2017_Original.PNG) **VS** [2017 Refactored VBA](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2017.PNG), [2018 Original VBA](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_2018_Original.PNG) **VS** [2018 Refactored VBA](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2018.PNG)
 ### Summary for Refactoring
 - Refactoring code would be improve the code in many ways such as efficiency, clarity, readability and so on. 
-- **BUT** refactoring code can consmue lots of time and effort to improve, and the improvement might not effective as much as expected. For example a Macro runs 1 sec, and after spending days on the code Macro runds now 0.5 sec. Saving 0.5 Sec was worth to do as spending **days**? The answer could be depends on cases, but definielty this should be one of factor that need to be consider when we do **Refactoring**
+- **BUT** refactoring code can consmue lots of time and effort to improve, and the improvement might not effective as much as expected. For example a Macro runs 1 sec, and after spending days on the code Macro runds now 0.5 sec. Saving 0.5 Sec was worth to do as spending **DAYS**? The answer could be depends on cases, but definielty this should be one of factor that need to be consider when we do **Refactoring**
 
 ### Summary for our VBA
 - There was a signficant time reduce as refactoring Origianl VBA code. 
