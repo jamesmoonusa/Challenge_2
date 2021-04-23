@@ -11,5 +11,5 @@ Creating VBA Macro for a client who wants to analyzing 2017 and 2018 Stock datas
 
 ### Summary for our VBA
 - There was a signficant time reduce as refactoring Origianl VBA code and readability has improved, **BUT** those improve ment was nessary or required?? 
-  In the words of George Fishers :
-  > Time is Money
+  In the words of George Fishers : > Time Is Money
+ 
