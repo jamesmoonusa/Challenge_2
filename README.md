@@ -11,5 +11,5 @@ Creating VBA Macro for a client who wants to analyzing 2017 and 2018 Stock datas
 
 ### Summary for our VBA
 - There was a signficant reduce on Original VBA run time and readability as refactoring the code 
-- It is good to have a nice, neat and clean code for reading and run usually but if the code will be used once a year I do not think we need to spend time to make improvement on the code. 
+- Normally it should be good to have a nice, neat and clean code for running and reading but if the code that will be used once a year, then I do not think we need to spend time to make improvement on the code. 
   
