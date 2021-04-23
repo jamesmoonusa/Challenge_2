@@ -1,9 +1,10 @@
-# Overview
-Analyzing each years stock volumes and return rate to see how stocks performed and what stock would be the good stock to invest.
+# Overview of Project
+Creating VBA Macro for a client who wants to analyzing 2017 and 2018 Stock datasheet to see volume and return rate. Additionaly refactoring the code for improvement.
 
 ## Result
-On 2018 only ENPH and RUN stocks has positive return. [2018 Result](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2018.PNG)
-On 2017 All Stocks has positive return except TERO. [2017 Ressult](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2017.PNG)
+1. On 2018 only ENPH and RUN stocks has positive return. [2018 Result](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2018.PNG)
+2. On 2017 All Stocks has positive return except TERO. [2017 Ressult](https://github.com/jamesmoonusa/Challenge_2/blob/main/VBA_Challenge_2017.PNG)
+3. Original VBA run time has significally reduced
 
 ### Summary for Refactoring
 - Refactoring code would be improve the code in many ways such as efficiency, clarity, readability and so on. 
